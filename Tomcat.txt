@@ -1,0 +1,4 @@
+Library/Tomcat/bin/startup.sh  for starting tomcat
+/Library/Tomcat/bin/shutdown.sh for stopping tomcat
+
+https://wolfpaulus.com/tomcat
